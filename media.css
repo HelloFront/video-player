@@ -1,0 +1,15 @@
+@media screen and (max-width: 420px) {
+    main {
+        width: 400px;
+    }
+    .navigation {
+        padding: 5px;
+    }
+    svg {
+        margin: 0;
+    }
+    .control > svg {
+        width: 35px;
+        padding: 0 5px;
+    }
+}
